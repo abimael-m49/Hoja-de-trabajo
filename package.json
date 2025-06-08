@@ -1,0 +1,19 @@
+{
+  "name": "hoja-de-trabajo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abimael-m49/Hoja-de-trabajo.git"
+  },
+  "author": "Alan Matzir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abimael-m49/Hoja-de-trabajo/issues"
+  },
+  "homepage": "https://github.com/abimael-m49/Hoja-de-trabajo#readme",
+  "description": ""
+}
